@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-10-24 01:45 UTC\n"
-"PO-Revision-Date: 2024-12-24 14:43+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2025-01-15 10:29+0100\n"
+"Last-Translator: Matěj Žejdl <zejdlm123@seznam.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,6 @@ msgstr "Vrah v lese"
 
 #. [campaign]: id=Assassin_in_the_Forest
 #: Assassin_in_the_Forest/_main.cfg:15
-#, fuzzy
 msgid ""
 "<i>stabble stabble</i>\n"
 "\n"
@@ -37,7 +36,7 @@ msgid ""
 msgstr ""
 "<i>kuch kuch</i>\n"
 "\n"
-" Hraj za osamělého ale velmi zkušeného zabijáka. Číhej ve stínu a čekej až "
+"Hraj za osamělého, ale velmi zkušeného zabijáka. Číhej ve stínu a čekej, až "
 "nastane ten nejlepší okamžik k útoku.\n"
 "\n"
 "\n"
@@ -121,14 +120,12 @@ msgstr "Použij své dovednosti k odstranění nepřátelských vůdců"
 
 #. [objective]: condition=win
 #: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:364
-#, fuzzy
 msgid ""
 "Use your skills to eliminate <span underline='single'>all</span> enemy units"
-msgstr "Použij své dovednosti k odstranění nepřátelských jednotek"
+msgstr "Použij své dovednosti k odstranění všech nepřátelských jednotek"
 
 #. [objectives]
 #: Assassin_in_the_Forest/Assassin_in_the_Forest.cfg:367
-#, fuzzy
 msgid ""
 "Your Assassin is a skirmisher, and he\n"
 "<span color='#AAFFFF'>• can hide in villages\n"
@@ -138,10 +135,10 @@ msgid ""
 "• can use remaining knives after attacking with his ranged weapon</span>"
 msgstr ""
 "Tvůj vrah je harcovník a:\n"
-"<span color='#AAFFFF'>•může se schovat ve vesnicích\n"
-"•může se schovat během noci\n"
-"•může se schovat pokud nepoužil víc než polovinu jeho bodů pohybu\n"
-"•získává 1 pohybový bod za každý zásah svou zbraní na blízko\n"
+"<span color='#AAFFFF'>• může se schovat ve vesnicích\n"
+"• může se schovat během noci\n"
+"• může se schovat pokud nepoužil víc než polovinu jeho bodů pohybu\n"
+"• získává 1 pohybový bod za každý zásah svou zbraní na blízko\n"
 "• může použít zbývající nože po útoku zbraní na dálku</span>"
 
 #: Assassin_in_the_Forest/Forest_Assassin.cfg:4
